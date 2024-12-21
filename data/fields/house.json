@@ -12,5 +12,6 @@
             "terrace": "Row of terraced houses",
             "terraced": "Terraced House"
         }
-    }
+    },
+    "autoSuggestions": false
 }

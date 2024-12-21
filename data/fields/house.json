@@ -1,7 +1,7 @@
 {
     "key": "house",
     "type": "combo",
-    "label": "House Type"
+    "label": "House Type",
     "strings": {
         "options": {
             "bungalow": "Bungalow",

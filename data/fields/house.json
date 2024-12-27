@@ -5,7 +5,7 @@
     "strings": {
         "options": {
             "bungalow": {
-                "title:": "Bungalow",
+                "title": "Bungalow",
                 "description": "A small house with a single storey"
             },
             "detached": {
@@ -25,7 +25,7 @@
                 "description": "A house that is attached to another house on one side"
             },
             "terrace": {
-                "title": "Row of terraced houses",
+                "title": "Row of Terraced Houses",
                 "description": "A row of houses that are attached to each other in a line"
             },
             "terraced": {
